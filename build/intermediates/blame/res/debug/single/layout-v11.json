@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

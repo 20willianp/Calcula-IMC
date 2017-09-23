@@ -1,0 +1,7 @@
+#Sat Aug 26 19:55:09 BRT 2017
+base.0=/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c4c7347bd22fc23477293f3a640514f210033f6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_29409187e8859f6f0ddde307998e164058c5841a/classes.dex
+base.1=/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_29409187e8859f6f0ddde307998e164058c5841a
+file.0=/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c4c7347bd22fc23477293f3a640514f210033f6/classes.dex

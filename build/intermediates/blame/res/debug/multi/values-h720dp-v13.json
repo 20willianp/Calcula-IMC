@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

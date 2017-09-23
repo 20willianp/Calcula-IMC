@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.calculaimc.ActShowIMC">
+
+    <TextView
+        android:id="@+id/lblIMC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="Seu IMC é" />
+
+    <TextView
+        android:id="@+id/txtIMC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/lblIMC"
+        android:layout_alignStart="@+id/lblIMC"
+        android:layout_below="@+id/lblIMC"
+        android:layout_marginTop="38dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3" />
+
+    <TextView
+        android:id="@+id/txtSituacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblSituacao"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+    <TextView
+        android:id="@+id/lblSituacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/lblIMC"
+        android:layout_alignRight="@+id/lblIMC"
+        android:layout_below="@+id/txtIMC"
+        android:layout_marginTop="78dp"
+        android:text="Situação" />
+
+    <Button
+        android:id="@+id/btnVoltar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="38dp"
+        android:onClick="eventBtnVoltar"
+        android:text="Voltar" />
+</RelativeLayout>

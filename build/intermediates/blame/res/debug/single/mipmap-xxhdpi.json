@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

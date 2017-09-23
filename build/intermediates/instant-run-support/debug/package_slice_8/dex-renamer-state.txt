@@ -1,0 +1,4 @@
+#Sat Aug 26 01:15:18 BRT 2017
+base.0=/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/home/willian/AndroidStudioProjects/CalculaIMC/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

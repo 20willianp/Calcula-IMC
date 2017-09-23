@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/willian/.android/build-cache/f79d770c43d6f1776c8e1725c5322e95c641c239/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/willian/.android/build-cache/ae73458b8dc1d7ee804d31557cb6e5de51194604/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/willian/.android/build-cache/18bd9ca7b7af077e0f78eeb99a5d04600ecad3a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/willian/.android/build-cache/c543616764e39e046d231678860a2575a3e647f9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/willian/.android/build-cache/1762c756d01dfde9eca6a06d9db3329a31fcfdc1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/willian/.android/build-cache/8e984f7fc969d04960298f3a8c0d23726c090d0a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/willian/.android/build-cache/4b0cb984db927fe6712abdabacd2ac4c3fbb372c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/willian/.android/build-cache/465463586514cfa2803589d455674071640eb1aa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/willian/.android/build-cache/3a13f565954addc4fd71f853e78ca045d8f6bb63/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:11:9-40
+activity#app.calculaimc.ActMain
+ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:12:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:16:27-74
+activity#app.calculaimc.ActShowIMC
+ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:19:9-57
+	android:name
+		ADDED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml:19:19-45
+uses-sdk
+INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/willian/.android/build-cache/f79d770c43d6f1776c8e1725c5322e95c641c239/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/willian/.android/build-cache/ae73458b8dc1d7ee804d31557cb6e5de51194604/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/willian/.android/build-cache/18bd9ca7b7af077e0f78eeb99a5d04600ecad3a3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/willian/.android/build-cache/c543616764e39e046d231678860a2575a3e647f9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/willian/.android/build-cache/1762c756d01dfde9eca6a06d9db3329a31fcfdc1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/willian/.android/build-cache/8e984f7fc969d04960298f3a8c0d23726c090d0a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/willian/.android/build-cache/4b0cb984db927fe6712abdabacd2ac4c3fbb372c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/willian/.android/build-cache/465463586514cfa2803589d455674071640eb1aa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/willian/.android/build-cache/3a13f565954addc4fd71f853e78ca045d8f6bb63/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+		INJECTED from /home/willian/AndroidStudioProjects/CalculaIMC/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/willian/.android/build-cache/f79d770c43d6f1776c8e1725c5322e95c641c239/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/willian/.android/build-cache/ae73458b8dc1d7ee804d31557cb6e5de51194604/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/willian/.android/build-cache/18bd9ca7b7af077e0f78eeb99a5d04600ecad3a3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/willian/.android/build-cache/c543616764e39e046d231678860a2575a3e647f9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/willian/.android/build-cache/1762c756d01dfde9eca6a06d9db3329a31fcfdc1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/willian/.android/build-cache/8e984f7fc969d04960298f3a8c0d23726c090d0a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/willian/.android/build-cache/4b0cb984db927fe6712abdabacd2ac4c3fbb372c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/willian/.android/build-cache/465463586514cfa2803589d455674071640eb1aa/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/willian/.android/build-cache/3137b5dbb6d7179ed7be0d82796c9c7b6f5af383/output/AndroidManifest.xml:26:9-47
